@@ -149,6 +149,8 @@ Leave a message on my profile to say hi! Click the badge below to sign:
 <!-- GUESTBOOK_START -->
 | Visitor | Date | Message |
 | :--- | :--- | :--- |
+| [@tusharrayamajhi](https://github.com/tusharrayamajhi) | Jun 13, 2026 | Write your guestbook message here! |
+
 <!-- GUESTBOOK_END -->
 
 </div>
