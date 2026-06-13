@@ -5,8 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=Building+AI+Agents+with+LangChain+%26+LangGraph+%F0%9F%A4%96;Crafting+MCP+Servers+for+Claude+AI+%F0%9F%94%A7;Backend+Engineering+with+NestJS+%26+FastAPI+%F0%9F%9A%80;Automating+workflows+with+n8n+%26+Vapi+%E2%9A%A1;Based+in+Nepal+%F0%9F%87%B3%F0%9F%87%B5+%E2%80%94+Open+to+Work)](https://git.io/typing-svg)
 
 <br/>
-<img src="./video_banner.gif" width="640" style="border-radius: 12px; border: 1px solid #30363d; margin: 10px 0;" />
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tusharrayamajhi&style=flat-square&color=58a6ff&label=Profile+Views)
 &nbsp;
@@ -135,6 +133,23 @@ const tushar = {
 | 🥉 3rd Place | Himalai Hackathon | 2025 |
 | 🥇 Winner | Lumbini ICT Campus Hackathon | 2025 |
 | 📜 Certified | Intro to LangGraph — LangChain Academy | 2025 |
+
+</div>
+
+---
+
+## 💬 Interactive Guestbook
+
+Leave a message on my profile to say hi! Click the badge below to sign:
+
+<div align="center">
+
+[![Sign Guestbook](https://img.shields.io/badge/✍️_Sign_Guestbook-58a6ff?style=for-the-badge&logo=github)](https://github.com/tusharrayamajhi/tusharrayamajhi/issues/new?title=Sign+Guestbook&body=Write+your+guestbook+message+here!)
+
+<!-- GUESTBOOK_START -->
+| Visitor | Date | Message |
+| :--- | :--- | :--- |
+<!-- GUESTBOOK_END -->
 
 </div>
 
